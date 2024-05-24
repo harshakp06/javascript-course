@@ -8,3 +8,5 @@ console.log(arry);
 const newArry = arry.join(" ")
 
 console.log(newArry);
+
+
